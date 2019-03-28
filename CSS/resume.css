@@ -1,0 +1,45 @@
+font-family: 'Lato', sans-serif;
+   }
+   .header{
+       display: flex;
+       margin-bottom: 20px;
+   }
+    .main-title{
+        font-size: 24px;
+        border-bottom: 3px;
+        margin: 0 auto;
+        text-align: center;
+        text-transform: uppercase;
+        text-decoration: underline;
+
+    }
+    .name{
+        font-size: 20px;
+    }
+    table th{
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+    table td{
+        padding: 5px !important;
+    }
+    table th h3{
+        font-size: 16px;
+        text-transform: uppercase;
+        background-color: Black;
+        color: white;
+        font-weight: bold;
+        padding: 5px;
+
+    }
+    .info{
+        margin-bottom: 10px;
+    }
+    .title{
+        padding-left:50px !important;
+        width: 30%;
+    }
+    .sign{
+        width: 10%;
+    }
+    
